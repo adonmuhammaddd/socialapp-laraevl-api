@@ -16,3 +16,4 @@ First of all rename .env.example to .env from your text editor.
 - you may also need to run `composer update` in case you got erros.
 
 - replace database configs with your own.
+"# socialapp-laraevl-api" 
